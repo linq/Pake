@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', _event => {
   // Customize and transform existing functions
   const contentCSS = `
-    *{font-family: "LXGW WenKai Screen" !important;}    
+    *{font-family: "Songti SC" !important;}    
     body::-webkit-scrollbar{width:0px;height:0px;}
     .readerChapterContent {
         margin-left: 2rem;
