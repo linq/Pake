@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', _event => {
   // Customize and transform existing functions
   const contentCSS = `
-    *{font-family: "LXGW WenKai Screen" !important;}
+    *{font-family: "FZPingXianYaSong-R-GBK" !important;}
 html body.wr_whiteTheme,
 .wr_whiteTheme .navBar_home,
 .wr_whiteTheme .app,
